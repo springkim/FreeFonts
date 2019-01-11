@@ -43,6 +43,6 @@ for dir in dirs:
         draw.text((20, 100*i+33), text_eng, font=font,fill=(55,55,35))
         draw.text((20, 100*i+67), text_kor, font=font,fill=(35,55,55))
     image.save(os.path.join('img',dir+".png"))
-    fout.write("![]("+os.path.join('img',dir+".png")+")")
+    fout.write("![]("+os.path.join('img',dir+".png")+")\n")
     print(dir)
     
