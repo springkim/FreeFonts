@@ -12,7 +12,7 @@ if not os.path.exists('img'): os.mkdir('img')
 text_eng="“Good design adds value faster than it adds cost.”"
 text_kor="“좋은 디자인은 그 때문에 소모되는 비용보다 빠르게 가치가 쌓인다.”"
 
-fout=open('Readme.md','w')
+fout=open('Readme.md','w',encoding='utf8')
 
 readme="""
 # Free fonts
@@ -24,9 +24,9 @@ dirs = [f for f in os.listdir(dir_root) if os.path.isdir(os.path.join(dir_root,f
 for dir in dirs:
     dir_a=os.path.join(dir_root,dir)
     
-    fout.write("## "+dir+"\n")
+    fout.write("## "+dir+"\n\n")
     fin=open(os.path.join(dir_a,'link.txt'),'r')
-    fout.write("[Offical link]("+fin.read()+")\n")
+    fout.write("[Offical link]("+fin.read()+")\n\n")
     fin.close()
     
     files = [f for f in os.listdir(dir_a) if re.match(r'.*\.(ttf|otf)', f)]
@@ -43,6 +43,6 @@ for dir in dirs:
         draw.text((20, 100*i+33), text_eng, font=font,fill=(55,55,35))
         draw.text((20, 100*i+67), text_kor, font=font,fill=(35,55,55))
     image.save(os.path.join('img',dir+".png"))
-    fout.write("![]("+os.path.join('img',dir+".png")+")\n")
+    fout.write("![]("+os.path.join('img',dir+".png")+")\n\n")
     print(dir)
     

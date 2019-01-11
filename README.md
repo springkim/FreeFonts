@@ -1,131 +1,260 @@
 
 # Free fonts
-## 116¼ö¹ÚÈ­Ã¼
+## 116ìˆ˜ë°•í™”ì²´
+
 [Offical link](https://blog.naver.com/PostView.nhn?blogId=wosr1&logNo=221324032660&categoryNo=63&parentCategoryNo=46&viewDate=&currentPage=&postListTopCurrentPage=&isAfterWrite=true)
-![](img\116¼ö¹ÚÈ­Ã¼.png)
+
+![](img\116ìˆ˜ë°•í™”ì²´.png)
+
 ## 123RF
+
 [Offical link](https://kr.123rf.com/krfreefont/)
+
 ![](img\123RF.png)
+
 ## EBS
+
 [Offical link](http://about.ebs.co.kr/kor/organization/font?tabVal=jusigyeong)
+
 ![](img\EBS.png)
-## HS°¡À»»ı°¢Ã¼
+
+## HSê°€ì„ìƒê°ì²´
+
 [Offical link](https://hp0.blog.me/221132470037)
-![](img\HS°¡À»»ı°¢Ã¼.png)
-## KCCÀº¿µÃ¼
+
+![](img\HSê°€ì„ìƒê°ì²´.png)
+
+## KCCì€ì˜ì²´
+
 [Offical link](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13072022&menuNo=200133)
-![](img\KCCÀº¿µÃ¼.png)
+
+![](img\KCCì€ì˜ì²´.png)
+
 ## ONING
+
 [Offical link](http://www.oning.co.kr/)
+
 ![](img\ONING.png)
+
 ## TVN
+
 [Offical link](http://tvn10festival.tving.com/playground/tvn10font)
+
 ![](img\TVN.png)
-## °¡ºñ¾Æ
+
+## ê°€ë¹„ì•„
+
 [Offical link](https://company.gabia.com/font)
-![](img\°¡ºñ¾Æ.png)
-## °ËÀº°íµñ
+
+![](img\ê°€ë¹„ì•„.png)
+
+## ê²€ì€ê³ ë”•
+
 [Offical link](https://github.com/zesstype/Black-Han-Sans)
-![](img\°ËÀº°íµñ.png)
-## °æ±âµµ
+
+![](img\ê²€ì€ê³ ë”•.png)
+
+## ê²½ê¸°ë„
+
 [Offical link](https://www.gg.go.kr/archives/3735027)
-![](img\°æ±âµµ.png)
-## °íµµÃ¼
+
+![](img\ê²½ê¸°ë„.png)
+
+## ê³ ë„ì²´
+
 [Offical link](https://design.godo.co.kr/custom/free-font.php)
-![](img\°íµµÃ¼.png)
-## ±¹´ë¶±ººÀÌ
+
+![](img\ê³ ë„ì²´.png)
+
+## êµ­ëŒ€ë–¡ë³¶ì´
+
 [Offical link](http://kukde.co.kr/?page_id=627)
-![](img\±¹´ë¶±ººÀÌ.png)
-## ±¹¸³Áß¾Óµµ¼­°ü
+
+![](img\êµ­ëŒ€ë–¡ë³¶ì´.png)
+
+## êµ­ë¦½ì¤‘ì•™ë„ì„œê´€
+
 [Offical link](http://www.nl.go.kr/nl/intro/libinfo/font.jsp)
-![](img\±¹¸³Áß¾Óµµ¼­°ü.png)
-## ³ª´®
+
+![](img\êµ­ë¦½ì¤‘ì•™ë„ì„œê´€.png)
+
+## ë‚˜ëˆ”
+
 [Offical link](https://hangeul.naver.com/2017/nanum)
-![](img\³ª´®.png)
-## ³İ¸¶ºí
+
+![](img\ë‚˜ëˆ”.png)
+
+## ë„·ë§ˆë¸”
+
 [Offical link](http://company.netmarble.com/company/ci?tab=2)
-![](img\³İ¸¶ºí.png)
-## ´Ğ½º°ï
+
+![](img\ë„·ë§ˆë¸”.png)
+
+## ë‹‰ìŠ¤ê³¤
+
 [Offical link](http://www.nixgon.com/nixgon-fonts)
-![](img\´Ğ½º°ï.png)
-## ´ëÇÑÀÎ¼â¹®È­ÇùÈ¸
+
+![](img\ë‹‰ìŠ¤ê³¤.png)
+
+## ëŒ€í•œì¸ì‡„ë¬¸í™”í˜‘íšŒ
+
 [Offical link](http://www.print.or.kr/bbs/board.php?bo_table=B52&wr_id=26&page=0&page=0)
-![](img\´ëÇÑÀÎ¼â¹®È­ÇùÈ¸.png)
-## ´õÆäÀÌ½º¼¥
+
+![](img\ëŒ€í•œì¸ì‡„ë¬¸í™”í˜‘íšŒ.png)
+
+## ë”í˜ì´ìŠ¤ìƒµ
+
 [Offical link](http://www.thefaceshop.com/event/lipquid/main.jsp#FontDownload)
-![](img\´õÆäÀÌ½º¼¥.png)
-## µ¿±×¶ó¹ÌÀç´Ü
+
+![](img\ë”í˜ì´ìŠ¤ìƒµ.png)
+
+## ë™ê·¸ë¼ë¯¸ì¬ë‹¨
+
 [Offical link](http://www.thecircle.or.kr/%EB%8F%99%EA%B7%B8%EB%9D%BC%EB%AF%B8%EC%9E%AC%EB%8B%A8-%EC%84%9C%EC%B2%B4/)
-![](img\µ¿±×¶ó¹ÌÀç´Ü.png)
-## µÑ±â ¸¶¿äÃ¼
+
+![](img\ë™ê·¸ë¼ë¯¸ì¬ë‹¨.png)
+
+## ë‘˜ê¸° ë§ˆìš”ì²´
+
 [Offical link](https://blog.naver.com/oters/221300837221)
-![](img\µÑ±â ¸¶¿äÃ¼.png)
-## ¹Ì»ıÃ¼
+
+![](img\ë‘˜ê¸° ë§ˆìš”ì²´.png)
+
+## ë¯¸ìƒì²´
+
 [Offical link](http://webtoon.daum.net/event/misaengfont)
-![](img\¹Ì»ıÃ¼.png)
-## ¹è´ŞÀÇ¹ÎÁ·
+
+![](img\ë¯¸ìƒì²´.png)
+
+## ë°°ë‹¬ì˜ë¯¼ì¡±
+
 [Offical link](https://www.woowahan.com/#/fonts)
-![](img\¹è´ŞÀÇ¹ÎÁ·.png)
-## ºÎ»ê¹Ù´ÙÃ¼
+
+![](img\ë°°ë‹¬ì˜ë¯¼ì¡±.png)
+
+## ë¶€ì‚°ë°”ë‹¤ì²´
+
 [Offical link](http://blog.naver.com/PostView.nhn?blogId=visinfo&logNo=220961775782&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=true&from=search)
-![](img\ºÎ»ê¹Ù´ÙÃ¼.png)
-## ºù±×·¹
+
+![](img\ë¶€ì‚°ë°”ë‹¤ì²´.png)
+
+## ë¹™ê·¸ë ˆ
+
 [Offical link](http://www.bingfont.co.kr/bingfont.html)
-![](img\ºù±×·¹.png)
-## »ó»óÅä³¢
+
+![](img\ë¹™ê·¸ë ˆ.png)
+
+## ìƒìƒí† ë¼
+
 [Offical link](https://sangsangfont.com)
-![](img\»ó»óÅä³¢.png)
-## ¼ºµ¿±¸
+
+![](img\ìƒìƒí† ë¼.png)
+
+## ì„±ë™êµ¬
+
 [Offical link](http://www.sd.go.kr/sd/main.do?op=mainSub&mCode=13G010030030)
-![](img\¼ºµ¿±¸.png)
-## ½º¿ş°ÅÃ¼
+
+![](img\ì„±ë™êµ¬.png)
+
+## ìŠ¤ì›¨ê±°ì²´
+
 [Offical link](http://www.swagger.kr/index_font.html)
-![](img\½º¿ş°ÅÃ¼.png)
-## ¾Æ¸ğ·¹ÆÛ½ÃÇÈ
+
+![](img\ìŠ¤ì›¨ê±°ì²´.png)
+
+## ì•„ëª¨ë ˆí¼ì‹œí”½
+
 [Offical link](http://www.apgroup.com/int/ko/about-us/visual-identity/arita-typeface.html)
-![](img\¾Æ¸ğ·¹ÆÛ½ÃÇÈ.png)
-## ¾Æ»ê½Ã
+
+![](img\ì•„ëª¨ë ˆí¼ì‹œí”½.png)
+
+## ì•„ì‚°ì‹œ
+
 [Offical link](https://www.asan.go.kr/main/cms/?no=49)
-![](img\¾Æ»ê½Ã.png)
-## ¾È°æÀâÀÌÃ¼
+
+![](img\ì•„ì‚°ì‹œ.png)
+
+## ì•ˆê²½ì¡ì´ì²´
+
 [Offical link](http://greenegg.co.kr/?portfolio=test)
-![](img\¾È°æÀâÀÌÃ¼.png)
-## ¾ÖÅÍ¹Ì
+
+![](img\ì•ˆê²½ì¡ì´ì²´.png)
+
+## ì• í„°ë¯¸
+
 [Offical link](http://www.atomy.kr/v2/Home/About/FontsInfo)
-![](img\¾ÖÅÍ¹Ì.png)
-## ¾ß³îÀÚ
+
+![](img\ì• í„°ë¯¸.png)
+
+## ì•¼ë†€ì
+
 [Offical link](http://yanolja.in/ko/yafont/)
-![](img\¾ß³îÀÚ.png)
-## ¾îºñÆùÆ®
+
+![](img\ì•¼ë†€ì.png)
+
+## ì–´ë¹„í°íŠ¸
+
 [Offical link](http://uhbeefont.com/)
-![](img\¾îºñÆùÆ®.png)
-## ¿¡½ºÄÚ¾î
+
+![](img\ì–´ë¹„í°íŠ¸.png)
+
+## ì—ìŠ¤ì½”ì–´
+
 [Offical link](http://www.s-core.co.kr/who-we-are/font/)
-![](img\¿¡½ºÄÚ¾î.png)
-## ¿©±â¾î¶§
+
+![](img\ì—ìŠ¤ì½”ì–´.png)
+
+## ì—¬ê¸°ì–´ë•Œ
+
 [Offical link](https://www.goodchoice.kr/font#is-fifth)
-![](img\¿©±â¾î¶§.png)
-## ÀÌ·Ó°Ô
+
+![](img\ì—¬ê¸°ì–´ë•Œ.png)
+
+## ì´ë¡­ê²Œ
+
 [Offical link](http://font.iropke.com/batang/#download)
-![](img\ÀÌ·Ó°Ô.png)
-## Á¦ÁÖÆ¯º°ÀÚÄ¡µµ
+
+![](img\ì´ë¡­ê²Œ.png)
+
+## ì œì£¼íŠ¹ë³„ìì¹˜ë„
+
 [Offical link](https://www.jeju.go.kr/jeju/symbol/font/infor.htm)
-![](img\Á¦ÁÖÆ¯º°ÀÚÄ¡µµ.png)
-## Á¶¼±ÀÏº¸
+
+![](img\ì œì£¼íŠ¹ë³„ìì¹˜ë„.png)
+
+## ì¡°ì„ ì¼ë³´
+
 [Offical link](https://software.naver.com/software/summary.nhn?softwareId=MFS_109604#)
-![](img\Á¶¼±ÀÏº¸.png)
-## Æ¼¸ó
+
+![](img\ì¡°ì„ ì¼ë³´.png)
+
+## í‹°ëª¬
+
 [Offical link](https://brunch.co.kr/@creative/32)
-![](img\Æ¼¸ó.png)
-## Æ÷Ãµ½Ã
+
+![](img\í‹°ëª¬.png)
+
+## í¬ì²œì‹œ
+
 [Offical link](http://www.pocheon.go.kr/www/contents.do?key=5582)
-![](img\Æ÷Ãµ½Ã.png)
-## ÇÑ±¹¼ö·Â¿øÀÚ·Â
+
+![](img\í¬ì²œì‹œ.png)
+
+## í•œêµ­ìˆ˜ë ¥ì›ìë ¥
+
 [Offical link](http://www.khnp.co.kr/content/799/main.do?mnCd=FN030605)
-![](img\ÇÑ±¹¼ö·Â¿øÀÚ·Â.png)
-## ÇÑ±¹Ã»¼Ò³âÈ°µ¿ÁøÈï¿ø
+
+![](img\í•œêµ­ìˆ˜ë ¥ì›ìë ¥.png)
+
+## í•œêµ­ì²­ì†Œë…„í™œë™ì§„í¥ì›
+
 [Offical link](https://www.kywa.or.kr/about/about08.jsp)
-![](img\ÇÑ±¹Ã»¼Ò³âÈ°µ¿ÁøÈï¿ø.png)
-## È£±¹Ã¼
+
+![](img\í•œêµ­ì²­ì†Œë…„í™œë™ì§„í¥ì›.png)
+
+## í˜¸êµ­ì²´
+
 [Offical link](https://blog.naver.com/mnd9090/221023344796)
-![](img\È£±¹Ã¼.png)
+
+![](img\í˜¸êµ­ì²´.png)
+
