@@ -16,6 +16,12 @@ fout=open('Readme.md','w',encoding='utf8')
 
 readme="""
 # Free fonts
+### This is a free font collection store that can distribute.
+### Contribute rule
+* The font file name must be the same as the font name.
+* It must be available for distribution on the free font.
+* If it is not possible to distribute, write it in AddressOnly.txt.
+* * *
 """;
 
 fout.write(readme)
@@ -24,7 +30,7 @@ dirs = [f for f in os.listdir(dir_root) if os.path.isdir(os.path.join(dir_root,f
 for dir in dirs:
     dir_a=os.path.join(dir_root,dir)
     
-    fout.write("## "+dir+"\n\n")
+    fout.write("### "+dir+"\n\n")
     fin=open(os.path.join(dir_a,'link.txt'),'r')
     fout.write("[Offical link]("+fin.read()+")\n\n")
     fin.close()
