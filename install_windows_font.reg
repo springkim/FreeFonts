@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Batang & BatangChe & Gungsuh & GungsuhChe (TrueType)"=""
+"Gulim & GulimChe & Dotum & DotumChe (TrueType)"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Gulim"="배달의민족 주아"
+"GulimChe"="배달의민족 주아"
+"Dotum"="배달의민족 주아"
+"DotumChe"="배달의민족 주아"
+"Batang"="배달의민족 주아"
+"BatangChe"="배달의민족 주아"
+"Gungsuh"="배달의민족 주아"
+"GungsuhChe"="배달의민족 주아"
