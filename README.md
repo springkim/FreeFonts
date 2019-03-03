@@ -48,6 +48,12 @@
 
 ![](img/ONING.png)
 
+### OpenSans
+
+[Offical link](https://www.fontsquirrel.com/fonts/open-sans)
+
+![](img/OpenSans.png)
+
 ### TVN
 
 [Offical link](http://tvn10festival.tving.com/playground/tvn10font)
