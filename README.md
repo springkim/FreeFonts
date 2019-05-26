@@ -29,6 +29,7 @@
 [Offical link](https://www.wfonts.com/font/bodoni)
 
 <img src="fonts\Bodoni/sample.png" height="150">
+
 ![](img/Bodoni.png)
 
 ### EBS
@@ -48,6 +49,7 @@
 [Offical link](https://www.cufonfonts.com/font/helvetica-2)
 
 <img src="fonts\Helvetica/sample.png" height="150">
+
 ![](img/Helvetica.png)
 
 ### HS가을생각체
