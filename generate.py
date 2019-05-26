@@ -45,7 +45,7 @@ for dir in dirs:
         
         tmp="temp/font"+os.path.splitext(files[i])[1]
         shutil.copy(os.path.join(dir_a,files[i]),tmp)
-        print(files[i])
+        #print(files[i])
         font = ImageFont.truetype(tmp, 20)
         draw.text((10, 135*i), os.path.splitext(files[i])[0], font=font,fill=(241,95,95))
         font = ImageFont.truetype(tmp, 18)
@@ -54,6 +54,8 @@ for dir in dirs:
         draw.text((20, 135*i+100), text_num, font=font,fill=(35,55,55))
         i+=1
     image.save(os.path.join('img',dir+".png"))
+    if os.path.exists(dir_a+"/sample.png"):
+        fout.write("<img src=\""+dir_a+"/sample.png\"" + "height=\"150\">\n")
     fout.write("![](img/"+dir+".png)\n\n")
     print(dir)
     
