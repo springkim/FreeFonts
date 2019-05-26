@@ -38,11 +38,25 @@
 
 ![](img/EBS.png)
 
+### Futura
+
+[Offical link](https://www.wfonts.com/font/futura)
+
+<img src="fonts\Futura/sample.png" height="150">
+
+![](img/Futura.png)
+
 ### Garamond
 
 [Offical link](https://www.wfonts.com/font/garamond)
 
 ![](img/Garamond.png)
+
+### Gillsans
+
+[Offical link](https://www.wfonts.com/font/gillsans)
+
+![](img/Gillsans.png)
 
 ### Helvetica
 
