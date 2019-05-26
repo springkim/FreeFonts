@@ -55,7 +55,7 @@ for dir in dirs:
         i+=1
     image.save(os.path.join('img',dir+".png"))
     if os.path.exists(dir_a+"/sample.png"):
-        fout.write("<img src=\""+dir_a+"/sample.png\"" + "height=\"150\">\n")
+        fout.write("<img src=\""+dir_a+"/sample.png\"" + " height=\"150\">\n")
     fout.write("![](img/"+dir+".png)\n\n")
     print(dir)
     
